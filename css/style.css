@@ -884,7 +884,7 @@ a{
 .bg{
     background: #2C365D;
     width: 100%;
-    min-height: 450px;
+    min-height: 700px;
 }
 
 .getin h1{
@@ -902,7 +902,7 @@ a{
 .form{
     background: #eee;
     border-radius: 25px;
-    min-height: 350px;
+    min-height: 500px;
     box-shadow: 0 3px 5px;
 }
 
