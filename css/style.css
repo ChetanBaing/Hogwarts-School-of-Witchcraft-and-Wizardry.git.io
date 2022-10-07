@@ -934,7 +934,7 @@ a{
 }
 
 .form input[type="submit"]{
-    width: 50%;
+    width: 90%;
     height: 45px;
     float: left;
     background: #FF9800;
